@@ -29,9 +29,9 @@
 
 ## Getting Started
 
-To add **Navigation** to your SwiftUI project, follow the detailed instructions in the [Installation Guide](INSTALLATION.md).
+To add **Navigation** to your SwiftUI project, follow the detailed instructions in the [Installation Guide](documentation/INSTALLATION.md).
 
-After installation, refer to the [Usage Overview](USAGE_OVERVIEW.md) for a quick introduction on setting up and using the framework.
+After installation, refer to the [Usage Overview](documentation/USAGE_OVERVIEW.md) for a quick introduction on setting up and using the framework.
 
 ## Documentation
 

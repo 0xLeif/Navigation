@@ -228,4 +228,5 @@ By following these guidelines, you can handle deep linking in your SwiftUI appli
 Ready to dive deeper? Explore the **API Reference** for detailed information on public methods, properties, and structures in the **Navigation** framework.
 
 **[Go to the API Reference →](API_OVERVIEW.md)**
+
 **[Go to Patterns and Best Practices →](PATTERNS_BEST_PRACTICES.md)**
